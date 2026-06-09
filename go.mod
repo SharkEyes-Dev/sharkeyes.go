@@ -1,3 +1,2 @@
-module github.com/sharkeyes/sharkeyes_go_lib
-
+module github.com/SharkEyes-Dev/sharkeyes.go
 go 1.24.3
