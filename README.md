@@ -15,7 +15,7 @@ Official Go library for integrating with the SharkEyes web form bot protection s
 Ensure you have Go 1.24 or higher installed, then run the following command in your project terminal:
 
 ```bash
-go get [github.com/SharkEyes-Dev/sharkeyes.go@v1.0.1](https://github.com/SharkEyes-Dev/sharkeyes.go@v1.0.1)
+go get github.com/SharkEyes-Dev/sharkeyes.go@v1.0.2
 
 ```
 
@@ -110,5 +110,5 @@ Dispatches the provided token to the SharkEyes servers to evaluate potential bot
 For advanced configurations, custom middleware implementations, and detailed integration guides, please visit our official documentation at https://docs.sharkeyes.dev
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details. Developed by the **SharkEyes** team.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details. Developed by the **SharkEyes** team.
 
