@@ -15,7 +15,7 @@ Official Go library for integrating with the SharkEyes web form bot protection s
 Ensure you have Go 1.24 or higher installed, then run the following command in your project terminal:
 
 ```bash
-go get [github.com/SharkEyes-Dev/sharkeyes.go@v0.1.2](https://github.com/SharkEyes-Dev/sharkeyes.go@v0.1.2)
+go get [github.com/SharkEyes-Dev/sharkeyes.go@v1.0.1](https://github.com/SharkEyes-Dev/sharkeyes.go@v1.0.1)
 
 ```
 
